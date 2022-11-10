@@ -1,7 +1,5 @@
 open Tea.App
 open Tea.Html
-module Events = Tea.Html.Events
-module Attributes = Tea.Html.Attributes
 
 type msg =
   | Increment // (* This will be our message to increment the counter *)
