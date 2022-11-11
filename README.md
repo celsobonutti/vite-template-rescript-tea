@@ -3,19 +3,15 @@
 Live example on [Netlify](https://rescript-tea.cel.so)
 
 ## Build
-```
+```base
 # Runs ReScript and Vite builds
-
 npm run build
 ```
 
 # Watch
 
-```
+```bash
 # Runs the Vite dev server
-npm run watch
-
-# Runs the ReScript compiler in watch mode
-npm run res:watch
+npm run dev
 ```
 

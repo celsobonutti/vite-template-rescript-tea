@@ -6,10 +6,10 @@
   "scripts": {
     "dev": "vite",
     "build": "rescript && vite build",
-    "preview": "vite preview",
-    "res:watch": "rescript build -w"
+    "preview": "vite preview"
   },
   "devDependencies": {
+    "@jihchi/vite-plugin-rescript": "^4.1.1",
     "rescript": "^10.0.1",
     "rescript-tea": "^0.16.0",
     "vite": "^3.2.3"
